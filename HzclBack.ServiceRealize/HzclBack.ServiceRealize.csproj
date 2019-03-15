@@ -4,4 +4,9 @@
     <TargetFramework>netcoreapp2.2</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\HzclBack.Abstract\HzclBack.Abstract.csproj" />
+    <ProjectReference Include="..\HzclBack.EntityFramework\HzclBack.EntityFramework.csproj" />
+  </ItemGroup>
+
 </Project>
