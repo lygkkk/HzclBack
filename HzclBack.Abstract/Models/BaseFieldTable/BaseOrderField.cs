@@ -1,7 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
+using HzclBack.Abstract.Models.BaseInfoTable;
 
-namespace HzclBack.Abstract.Models
+namespace HzclBack.Abstract.Models.BaseFieldTable
 {
     public class BaseOrderField : BaseField
     {

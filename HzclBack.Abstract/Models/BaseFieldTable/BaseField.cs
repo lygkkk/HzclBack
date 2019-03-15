@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace HzclBack.Abstract.Models
+namespace HzclBack.Abstract.Models.BaseFieldTable
 {
     public class BaseField
     {

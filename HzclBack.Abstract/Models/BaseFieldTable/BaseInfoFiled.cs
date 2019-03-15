@@ -1,4 +1,4 @@
-﻿namespace HzclBack.Abstract.Models
+﻿namespace HzclBack.Abstract.Models.BaseFieldTable
 {
     public class BaseInfoFiled : BaseField
     {

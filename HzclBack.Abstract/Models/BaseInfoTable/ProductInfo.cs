@@ -1,7 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
+using HzclBack.Abstract.Models.BaseFieldTable;
+using HzclBack.Abstract.Models.CategoryInfoTable;
 
-namespace HzclBack.Abstract.Models
+namespace HzclBack.Abstract.Models.BaseInfoTable
 {
     public class ProductInfo :BaseInfoFiled
     {
