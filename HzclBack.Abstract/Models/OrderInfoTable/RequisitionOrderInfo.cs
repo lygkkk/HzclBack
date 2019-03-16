@@ -2,7 +2,7 @@
 
 namespace HzclBack.Abstract.Models.OrderInfoTable
 {
-    public class RequisitionOrder : BaseOrderField
+    public class RequisitionOrderInfo : BaseOrderField
     {
         
     }

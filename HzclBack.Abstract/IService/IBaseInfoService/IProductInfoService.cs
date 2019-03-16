@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using HzclBack.Abstract.Models.BaseInfoTable;
 
-namespace HzclBack.Abstract.IBaseInfoService
+namespace HzclBack.Abstract.IService.IBaseInfoService
 {
     public interface IProductInfoService
     {

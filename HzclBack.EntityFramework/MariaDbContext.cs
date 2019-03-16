@@ -11,8 +11,8 @@ namespace HzclBack.EntityFramework
         public DbSet<EmployeeInfo> EmployeeInfos { get; set; }
         public DbSet<ProductCategoryInfo> ProductCategoryInfos { get; set; }
         public DbSet<WarehouseInfo> WarehouseInfos { get; set; }
-        public DbSet<InboundOrder> InboundOrders { get; set; }
-        public DbSet<RequisitionOrder> RequisitionOrders { get; set; }
+        public DbSet<InboundOrderInfo> InboundOrders { get; set; }
+        public DbSet<RequisitionOrderInfo> RequisitionOrders { get; set; }
 
         public MariaDbContext(DbContextOptions options) : base(options)
         {
